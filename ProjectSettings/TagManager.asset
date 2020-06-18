@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: background
+    uniqueID: 4021833363
+    locked: 0
+  - name: Sopra background
+    uniqueID: 1093445247
+    locked: 0
