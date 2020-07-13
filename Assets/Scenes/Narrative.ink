@@ -264,7 +264,9 @@ MENTE?giudicatrice "Io, ovviamente, dico di no perchè metti che poi ti giudica 
 MENTE?disperata "Sarà una tortura."
 CUORE?saputello "Andiamo. Guarda: abbiamo praticamente finito. Ora possiamo salire in camera tranquillamente. E abbiamo pure passato un pò di tempo con il papà."
 MENTE?scocciata "Che gioia..."
+->Camera 
 
+=== Camera ===
 Torna in camera tua e ti sdrai sul letto. Accendi il cellulare e non sai se scrivere tutto quello che è successo durante la giornata alla tua migliore amica Anna oppure no.
 CUORE?saputello "Io dico di raccontarle tutto per filo e per segno, in fondo è la nostra migliore amica."
 MENTE?giudicatrice "Io, ovviamente, dico di no perchè metti che poi ti giudica o le scrivi qualcosa che a lei non va bene."
