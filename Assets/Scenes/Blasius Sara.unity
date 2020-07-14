@@ -2733,7 +2733,7 @@ AudioSource:
   m_PlayOnAwake: 1
   m_Volume: 0.134
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -4142,7 +4142,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1
   indentLevel: 0
-  duration: 4
+  duration: 2
   fadeOut: 0
   targetView: {fileID: 1303922197}
   waitUntilFinished: 1
@@ -4179,7 +4179,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 67
-    y: 67
+    y: 65.82353
     width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -4216,8 +4216,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1002438380}
-  selectedCommands: []
+  - {fileID: 1002438389}
+  selectedCommands:
+  - {fileID: 1002438387}
   variables: []
   description: 
   stepPause: 0
@@ -4257,7 +4258,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 3
   indentLevel: 0
-  duration: 4
+  duration: 2
   fadeOut: 1
   targetView: {fileID: 1957700442}
   waitUntilFinished: 1
@@ -4294,7 +4295,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 201
-    y: 107
+    y: 105.82353
     width: 127.17645
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -4320,7 +4321,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 5
   indentLevel: 0
-  duration: 4
+  duration: 2
   fadeOut: 1
   targetView: {fileID: 415779228}
   waitUntilFinished: 1
@@ -4357,7 +4358,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 336
-    y: 148
+    y: 146.82353
     width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -4383,7 +4384,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 9
   indentLevel: 0
-  duration: 4
+  duration: 2
   fadeOut: 1
   targetView: {fileID: 362933658}
   waitUntilFinished: 1
@@ -4446,7 +4447,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 7
   indentLevel: 0
-  duration: 4
+  duration: 2
   fadeOut: 1
   targetView: {fileID: 1101096992}
   waitUntilFinished: 1
@@ -4483,7 +4484,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 456
-    y: 190
+    y: 188.82353
     width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -4509,7 +4510,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 11
   indentLevel: 0
-  duration: 4
+  duration: 2
   fadeOut: 1
   targetView: {fileID: 705866082}
   waitUntilFinished: 1
@@ -4546,7 +4547,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 345
-    y: 302.64703
+    y: 301.47055
     width: 141.2941
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -4572,7 +4573,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 13
   indentLevel: 0
-  duration: 4
+  duration: 2
   fadeOut: 1
   targetView: {fileID: 1026274203}
   waitUntilFinished: 1
@@ -4609,7 +4610,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 527.201
-    y: 291.91788
+    y: 289.5649
     width: 159.17645
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -4623,7 +4624,7 @@ MonoBehaviour:
   suppressAllAutoSelections: 0
 --- !u!114 &1002438390
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -4635,7 +4636,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 15
   indentLevel: 0
-  duration: 4
+  duration: 2
   fadeOut: 1
   targetView: {fileID: 1654945484}
   waitUntilFinished: 1
@@ -4644,7 +4645,7 @@ MonoBehaviour:
   targetCamera: {fileID: 0}
 --- !u!114 &1002438391
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -4659,7 +4660,7 @@ MonoBehaviour:
   message: ink at Camera
 --- !u!114 &1002438392
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -4672,7 +4673,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 764.848
-    y: 178.97675
+    y: 176.62381
     width: 125.2941
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
